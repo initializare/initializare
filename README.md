@@ -4,7 +4,6 @@ I am Initializare, a **Developer Frontend** based out of Berlin working at [leon
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/initializare-code-b7582b296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-adeel-91)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5650328/adeel)
 
 ## Skills
 
